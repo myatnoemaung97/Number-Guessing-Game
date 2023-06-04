@@ -1,0 +1,4 @@
+#A number guessing game
+The program will generate a three unique digit number for the user to guess.
+If both the position and the number are both correct, the program will print "*".
+If the number is correct but in the wrong position, the program will print "!".
